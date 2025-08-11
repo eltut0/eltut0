@@ -8,3 +8,5 @@ I'm Jorge de Leon, a Cuban Computer Sciences student and tech enthusiast. I hope
 ![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 ![Linux](https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
